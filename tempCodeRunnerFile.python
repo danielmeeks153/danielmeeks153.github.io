@@ -1,0 +1,3 @@
+fname = "Daniel " 
+lname = "Meeks"
+print("Hello {} {}, welcome to python!".format(fname,lname))
